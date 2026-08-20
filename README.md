@@ -1,1 +1,1 @@
-# uml-diagraming
+# bpmn-diagraming
